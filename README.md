@@ -1,10 +1,10 @@
-# 👨‍💻 Sobre mí
+# 👨‍💻 Algo de mí
 
 ¡Hola! Mi nombre es Sebastián, soy un desarrollador web utilizando principalmente tecnologías que tienen como base JavaScript y a lo cual le dedico mucha pasión, además de mi trabajo como freelance es mi hobby. Estoy en constante actualización de mis conocmientos a través de plataformas en línea como Udemy y Platzi.  
 &nbsp;  
 &nbsp;
 
-## 💼 Algunos proyectos
+## 💼 Algunos de mis proyectos/trabajos
 
 &nbsp;
 
@@ -17,7 +17,7 @@
   &nbsp;  
   &nbsp;
 
-## 🚀 Tecnologías
+## 🚀 Tecnologías que me encantan 
 
 &nbsp;  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -50,14 +50,14 @@
 &nbsp;  
 &nbsp;
 
-## 📊 Análisis Github
+## 📊 Los lenguajes que más utilizo según Github
 
 &nbsp;  
 ![Lenguajes utilizados](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sebatstian-web&layout=compact&langs_count=8&theme=algolia&hide_title=true)
 &nbsp;  
 &nbsp;
 
-## 🤝 Contacto
+## 🤝 Hablemos
 
 &nbsp;  
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:sebastian.asm@outlook.com)
