@@ -7,12 +7,15 @@
 ## 💼 Algunos de mis proyectos/trabajos
 
 &nbsp;
-
+### Trabajos
 - [https://carlosmoreno.com.ar](https://carlosmoreno.com.ar) | Sitio en producción desarrollado con React, Strapi como headless CMS y MongoDB como base de datos. Api desplegada en un servidor de DigitalOcean.
 - [https://icasshpropiedades.cl/](https://icasshpropiedades.cl) | Sitio en producción desarrollado con React, Formik, Strapi y MongoDB como base de datos.
 - [https://jordanesabogados.com.ar](https://jordanesabogados.com.ar) | Sitio en producción desarrollado solo con Vanilla JavaScript, HTML, CSS y Webpack.
+
+### Proyectos
 - [https://proyecto-blog-230b8.web.app](https://proyecto-blog-230b8.web.app) | Proyecto estilo blog donde utilizo Firestore como base de datos en tiempo real, Vanilla JavaScript, HTML y CSS (sin frameworks).
-- [https://conoce-tu-ip.vercel.app](https://conoce-tu-ip.vercel.app) | Proyecto para obtener la IP y geolocalización desarrollado con Vanilla JavaScript, HTML y CSS (sin frameworks), consumiendo la API de ipify.
+- [https://conoce-tu-ip.vercel.app](https://conoce-tu-ip.vercel.app) | Proyecto para obtener la IP y geolocalización desarrollado solo con Vanilla JavaScript, HTML y CSS consumiendo la API de ipify.
+- [https://sleepy-shockley-7c72d9.netlify.app](https://sleepy-shockley-7c72d9.netlify.app) | Proyecto realizado con Webpack con minificación de código y reducción del tamaño de imágenes, con el objetivo de tener una base para trabajos sin frameworks.
 - [https://evaluatualquiler-3g6ehnsoa-sebatstian.vercel.app](https://evaluatualquiler-3g6ehnsoa-sebatstian.vercel.app) | _Proyecto en desarrollo_, utilizando NextJS para generar un sitio con SSR, y como base de datos Firestore.
   &nbsp;  
   &nbsp;
