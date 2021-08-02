@@ -4,7 +4,7 @@
 &nbsp;  
 &nbsp;
 
-## 💼 Algunos de mis proyectos/trabajos
+## 💼 Algunos de mis trabajos/proyectos
 
 &nbsp;
 ### Trabajos
