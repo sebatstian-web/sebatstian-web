@@ -19,6 +19,7 @@
 - [https://tiendita-pop.web.app](https://tiendita-pop.web.app) | Proyecto tienda online desarrollada con Webpack y React, como pasarela de pago Paypal, y obteniendo la latitud y longitud de la dirección a despachar renderizando en mapa. Configuración de Github Actions para CI/CD.
 - [https://merntasks-712f27se2-sebatstian.vercel.app](https://merntasks-712f27se2-sebatstian.vercel.app) | CRUD de tareas para proyectos a realizar utilizando el stack MERN para el desarrollo.
 - [https://mystifying-engelbart-46cf8b.netlify.app](https://mystifying-engelbart-46cf8b.netlify.app) | Proyecto desarrollado con Angular, consumiendo la API de themoviedb.org para listar las películas en cartelera. 
+- [https://filesend-kohl.vercel.app](https://filesend-kohl.vercel.app) | Proyecto clon de Firefox Send, donde el backend es construido con ExpressJS y MongoDB, y por el lado del frontend con NextJS con creación de rutas dinámicas bajo demanda. 
 - [https://evaluatualquiler-3g6ehnsoa-sebatstian.vercel.app](https://evaluatualquiler-3g6ehnsoa-sebatstian.vercel.app) | _Proyecto en desarrollo_, utilizando NextJS para generar un sitio con SSR, y como base de datos Firestore.
   &nbsp;  
   &nbsp;
