@@ -59,7 +59,7 @@
 ## 📊 Los lenguajes que más utilizo según Github
 
 &nbsp;  
-![Lenguajes utilizados](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sebatstian-web&layout=compact&langs_count=8&theme=algolia&hide_title=true)
+![Lenguajes utilizados](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sebatstian-web&layout=compact&langs_count=6&theme=algolia&hide_title=true)
 &nbsp;  
 &nbsp;
 
