@@ -1,17 +1,17 @@
-# 👨‍💻 Algo de mí
-&nbsp;
-¡Hola! Mi nombre es Sebastián, soy un Desarrollador Web utilizando principalmente tecnologías que tienen como base **JavaScript** así como **ReactJS** por el lado del frontend y **NodeJS** por la parte del backend; me apasiona utilizar estas y otras tecnologías. Estoy en constante actualización de mis conocmientos a través de diferentes plataformas de educación online.  
+# 👋 Algo de mí
+
+¡Hola! soy Sebastián, cuento con más de 4 años de experiencia utilizando principalmente el ecosistema de **JavaScript**, como **ReactJS** por el lado del frontend y **NodeJS** para el backend. Siempre con ganas de seguir mejorando y aprendido sobre el Desarrollo Web ya que es algo que me apasiona.
 &nbsp;  
 &nbsp;
 
-## 💼 Mi portafolio de trabajos y proyectos
-&nbsp;
-👉 [https://sebastiansanchez.dev](https://sebastiansanchez.dev)
+## 👨‍💻 Web personal
+
+[https://sebastiansanchez.dev](https://sebastiansanchez.dev)
 &nbsp;  
 &nbsp;
 
 ## 🚀 Tecnologías que me encantan 
-&nbsp;
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -38,21 +38,11 @@
 ![Powershell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)
 ![Insomnia Rest](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
-![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)
 &nbsp;  
 &nbsp;
 
 ## 📊 Mis habilidades técnicas más destacadas según Github
-&nbsp;
-![Lenguajes utilizados](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sebatstian-web&layout=compact&langs_count=6&theme=algolia&hide_title=true)
-&nbsp;  
-&nbsp;
 
-## 🤝 Hablemos
-&nbsp;
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:sebastian.asm@outlook.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastian-sanchez-miles)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/541131058047)
+![Lenguajes utilizados](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sebatstian-web&layout=compact&langs_count=6&theme=algolia&hide_title=true)
